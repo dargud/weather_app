@@ -1,0 +1,38 @@
+h1 {
+  font-family: "Times New Roman", Times, serif;
+  color: #202124;
+  font-size: 30px;
+  line-height: 26px;
+  line-height: 20px;
+  padding: 10px;
+}
+
+p {
+  color: #202124;
+  font-size: 15px;
+  line-height: 26px;
+  padding: 10px;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  color: #70757a;
+  font-size: 16px;
+  line-height: 20px;
+}
+
+.temperature {
+  font-family: Google Sans, arial, sans-serif;
+  font-size: 25px;
+}
+
+.app {
+  border: 1px solid;
+  color: #70757a;
+  padding: 15px;
+  margin: 15px;
+}
